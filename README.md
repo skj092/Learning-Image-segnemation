@@ -7,3 +7,4 @@ There are 2 type of segmenation:
 Dataset Format :
   1. COCO Json
   2. png mask
+
