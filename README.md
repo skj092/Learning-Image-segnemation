@@ -8,3 +8,6 @@ Dataset Format :
   1. COCO Json
   2. png mask
 
+Models:
+  1. Mask RCNN
+  2. Unet
