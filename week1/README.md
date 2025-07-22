@@ -202,3 +202,8 @@ Choose a relatively complex real-world image (e.g., a photograph with multiple o
 4.  **Propose a Hybrid Approach:** If you had to segment *this specific image* using a combination of classical methods, what steps would you take, and which methods would you combine? Justify your choices.
 
 ---
+
+
+Dataset:
+
+1. https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html
