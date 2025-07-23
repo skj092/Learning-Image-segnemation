@@ -15,7 +15,7 @@ _2-month full roadmap for deep learning and research-based interviews_
 ## ✅ Weekly Tracker
 
 ### Week 1: Classical Segmentation
-- [ ] Read about thresholding, edge detection (Canny, Sobel)
+- [ ] Read about thresholding, clustering, region and  edge based segmentation
 - [ ] Implement Watershed and GrabCut (OpenCV)
 - [ ] Try SLIC Superpixels
 - [ ] Notes on region growing and classical pipelines
